@@ -1,0 +1,4 @@
+# folders to be ignored
+**/logs
+git-ignore.txt
+**/classpath
